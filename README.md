@@ -1,1 +1,1 @@
-# War.io
+# War
